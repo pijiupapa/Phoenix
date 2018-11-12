@@ -20,7 +20,7 @@
 
 `！tables`
 
-![](C:\Users\yyz\Desktop\1541989434(1).jpg)
+![](F:\pijiupapa\Phoenix\img\p3.jpg)
 
 安装成功
 
@@ -40,11 +40,11 @@ Phoenix会自动将小写转为大写，在建表或查询语句中但凡有小�
 
 `select * from "test";`
 
-![](C:\Users\yyz\Desktop\微信截图_20181112113302.png)
+![](F:\pijiupapa\Phoenix\img\p1.png)
 
 hbase shell
 
-![](C:\Users\yyz\Desktop\微信截图_20181112113519.png)
+![](F:\pijiupapa\Phoenix\img\p2.png)
 
 <!--对table的操作会直接影响hbase表的数据。-->
 
