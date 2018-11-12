@@ -46,7 +46,7 @@ hbase shell
 
 ![](https://github.com/pijiupapa/Phoenix/raw/master/img/p2.png)
 
-    对table的操作会直接影响hbase表的数据。
+    对table的操作会直接影响hbase表的数据，反之一样。
 
 ### view
 
