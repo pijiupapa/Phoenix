@@ -46,7 +46,7 @@ hbase shell
 
 ![](https://github.com/pijiupapa/Phoenix/raw/master/img/p2.png)
 
-<!--对table的操作会直接影响hbase表的数据。-->
+    对table的操作会直接影响hbase表的数据。
 
 ### view
 
@@ -54,9 +54,9 @@ hbase shell
 
 `create view hbasename (pk varchar primary key, "cf"."c1" varchar, "cf"."c2" unsigned_int, "cf"."c3" unsigned_double);`
 
-<!--integer:-2147483648 to 2147483647-->
+    integer: -2147483648 to 2147483647
 
-<!--unsigned_int:0 to 2147483647-->
+    unsigned_int: 0 to 2147483647
 
-<!--view是只读的，会与hbase的表同步，删除view不会对hbase表有影响。-->
+    view是只读的，会与hbase的表同步，删除view不会对hbase表有影响。
 
